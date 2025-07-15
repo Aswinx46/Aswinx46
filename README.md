@@ -97,8 +97,8 @@
 
 🌎 **Let’s Connect!**
 <p align="center">
-  <a href="https://www.linkedin.com/in/aswin-b-thachil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aswin-b-thachil-2b9018326"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:aswinx46@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Aswinx46"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://leetcode.com/u/Aswinx46"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://leetcode.com/u/TCNWiN58Il/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
